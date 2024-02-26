@@ -18,7 +18,7 @@ Currently, I'm excited about the following topics:
 
 ### Publication
 
-- [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). preprint 2024\\
-  **Xinnong Zhang\***, Haoyu Kuang\*, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.\\
-  *\ indicates equal contributions.
+- [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). preprint 2024
+**Xinnong Zhang\***, Haoyu Kuang\*, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.
+*\ indicates equal contributions.
   
