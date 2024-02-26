@@ -10,7 +10,7 @@ redirect_from:
 
 I am Xinnong Zhang (张辛农), a Ph.D. student at Fudan University. I'm currently advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and carrying out my research at the [Data Intelligence and Social Computing Lab (Fudan DISC)](http://www.fudan-disc.com/).
 
-### Research Interest
+### Research Interests
 
 Currently, I'm excited about the following topics:
 - Computational Social Science via Large Vision Language Model
