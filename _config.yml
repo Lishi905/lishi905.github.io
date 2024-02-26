@@ -26,16 +26,16 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Fudan University"
   location         : "Shanghai, China"
-  employer         : ""
+  employer         : "Fudan University, DISC"
   uri              : # URL
   email            : "xnzhang23@m.fudan.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : #
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-8791-3308"
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
