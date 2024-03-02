@@ -13,8 +13,8 @@ I am Xinnong Zhang (张辛农), a Ph.D. student at Fudan University. I'm current
 ### Research Interests
 
 Currently, I'm excited about the following topics:
-- Computational Social Science via Large Vision Language Model
-- Agents Simulation powered by Large Language Model
+- Bootstrapping Computational Social Science via Large Vision Language Models
+- Agents Simulation powered by Large Language Models
 
 ### Publication
 
