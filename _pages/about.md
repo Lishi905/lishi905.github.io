@@ -18,9 +18,12 @@ Currently, I'm excited about the following topics:
 
 ### Publication
 
-- [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). Preprint 2024  
+- [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://somelvlm.github.io). Preprint 2024  
   **Xinnong Zhang\***, Haoyu Kuang\*, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
   \* indicates equal contributions.
+
+- [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling](https://aclanthology.org/2023.findings-emnlp.1003/). EMNLP Findings 2023
+  Ruoxue Ma, Jiarong Xu, **Xinnong Zhang**, Haozhe Zhang, Zuyu Zhao, Qi Zhang, Xuanjing Huang, Zhongyu Wei.
   
 
 
