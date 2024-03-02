@@ -22,7 +22,7 @@ Currently, I'm excited about the following topics:
   **Xinnong Zhang\***, Haoyu Kuang\*, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
   \* indicates equal contributions.
 
-- [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling](https://aclanthology.org/2023.findings-emnlp.1003/). EMNLP Findings 2023
+- [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling](https://aclanthology.org/2023.findings-emnlp.1003/). EMNLP Findings 2023  
   Ruoxue Ma, Jiarong Xu, **Xinnong Zhang**, Haozhe Zhang, Zuyu Zhao, Qi Zhang, Xuanjing Huang, Zhongyu Wei.
   
 
