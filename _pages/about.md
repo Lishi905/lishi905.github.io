@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Xinnong Zhang (张辛农), a Ph.D. student at Fudan University. I'm currently advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and carrying out my research at the [Data Intelligence and Social Computing Lab (Fudan DISC)](http://www.fudan-disc.com/).
+I am Xinnong Zhang (张辛农), a Ph.D. student at Fudan University. I'm currently advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and carrying out my research at the [Data Intelligence and Social Computing Lab (Fudan DISC)](http://www.fudan-disc.com/). My email is xnzhang23 AT m DOT fudan DOT edu DOT cn.
 
 ### Research Interests
 
