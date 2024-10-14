@@ -17,7 +17,7 @@ Currently, I'm excited about the following topics:
 - Agents Simulation Powered by Large Language Models
 
 ### Publication
-- [AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models](https://arxiv.org/abs/2410.07561). **Preprint**
+- [AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models](https://arxiv.org/abs/2410.07561). **Preprint**  
   Xiawei Liu, Shiyue Yang, **Xinnong Zhang**, Haoyu Kuang, Libo Sun, Yihang Yang, Siming Chen, Xuanjing Huang, Zhongyu Wei.
 
 - [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://somelvlm.github.io). **ACL Findings 2024**  
