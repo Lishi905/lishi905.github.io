@@ -16,7 +16,15 @@ Currently, I'm excited about the following topics:
 - Bootstrapping Computational Social Science via Large Vision Language Models
 - Agents Simulation Powered by Large Language Models
 
+### What's New
+
+\[2024.10.29\] **Three** new works are now available on arxiv! It's been quite tough days and now I'm planning on a vacation :)
+
 ### Publication
+- [ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents](https://arxiv.org/abs/2410.20746). **Technique Report**  
+  **Xinnong Zhang\***, Jiayu Lin\*, Libo Sun\*, Weihong Qi, Yihang Yang, Yue Chen, Hanjia Lyu, Xinyi Mou, Siming Chen, Jiebo Luo, Xuanjing Huang, Shiping Tang, Zhongyu Wei  
+  \* indicates equal contributions.
+
 - [AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://arxiv.org/abs/2410.19346). **Preprint**  
   Xinyi Mou\*, Jingcong Liang\*, Jiayu Lin\*, **Xinnong Zhang\***, Xiawei Liu, Shiyue Yang, Rong Ye, Lei Chen, Haoyu Kuang, Xuanjing Huang, Zhongyu Wei  
   \* indicates equal contributions.
