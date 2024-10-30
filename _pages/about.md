@@ -18,7 +18,7 @@ Currently, I'm excited about the following topics:
 
 ### What's New
 
-\[2024.10.29\] **Three** new works are now available on arxiv! It's been quite tough days and now I'm planning on a vacation :)
+\[2024.10.29\] **[AI-Press](https://arxiv.org/abs/2410.07561)**, **[AgentSense](https://arxiv.org/abs/2410.19346)**, and **[ElectionSim](https://arxiv.org/abs/2410.20746)**, altogether **three** new works are now released! It's been quite tough days and now I'm planning on a vacation : )
 
 ### Publication
 - [ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents](https://arxiv.org/abs/2410.20746). **Technique Report**  
