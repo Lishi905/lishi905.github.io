@@ -17,20 +17,24 @@ Currently, I'm excited about the following topics:
 - Agents Simulation Powered by Large Language Models
 
 ### What's New
+\[2024.12.05\] Our **Survey on Social Simulation** has been released! [\[Paper\]](https://arxiv.org/pdf/2412.03563), [\[Repo\]](https://github.com/FudanDISC/SocialAgent).
 
 \[2024.10.29\] **[AI-Press](https://arxiv.org/abs/2410.07561)**, **[AgentSense](https://arxiv.org/abs/2410.19346)**, and **[ElectionSim](https://arxiv.org/abs/2410.20746)**, altogether **three** new works are now released! It's been quite tough days and now I'm planning on a vacation : )
 
 ### Publication  
 \* indicates equal contributions.  
 
+- **\[Preprint\]** [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/abs/2412.03563).  
+  Xinyi Mou\*, Xuanwen Ding\*, Qi He\*, Liang Wang\*, Jingcong Liang, **Xinnong Zhang**, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.
+
 - **\[Tech Repo\]** [ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents](https://arxiv.org/abs/2410.20746).  
-  **Xinnong Zhang\***, Jiayu Lin\*, Libo Sun\*, Weihong Qi, Yihang Yang, Yue Chen, Hanjia Lyu, Xinyi Mou, Siming Chen, Jiebo Luo, Xuanjing Huang, Shiping Tang, Zhongyu Wei  
+  **Xinnong Zhang\***, Jiayu Lin\*, Libo Sun\*, Weihong Qi, Yihang Yang, Yue Chen, Hanjia Lyu, Xinyi Mou, Siming Chen, Jiebo Luo, Xuanjing Huang, Shiping Tang, Zhongyu Wei.  
 
 - **\[Preprint\]** [AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://arxiv.org/abs/2410.19346).  
-  Xinyi Mou\*, Jingcong Liang\*, Jiayu Lin\*, **Xinnong Zhang\***, Xiawei Liu, Shiyue Yang, Rong Ye, Lei Chen, Haoyu Kuang, Xuanjing Huang, Zhongyu Wei  
+  Xinyi Mou\*, Jingcong Liang\*, Jiayu Lin\*, **Xinnong Zhang\***, Xiawei Liu, Shiyue Yang, Rong Ye, Lei Chen, Haoyu Kuang, Xuanjing Huang, Zhongyu Wei.  
 
 - **\[COLING25\]** [AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models](https://arxiv.org/abs/2410.07561). **Demo**  
-  Xiawei Liu\*, Shiyue Yang\*, **Xinnong Zhang**, Haoyu Kuang, Libo Sun, Yihang Yang, Siming Chen, Xuanjing Huang, Zhongyu Wei.  
+  Xiawei Liu\*, Shiyue Yang\*, **Xinnong Zhang\***, Haoyu Kuang, Libo Sun, Yihang Yang, Siming Chen, Xuanjing Huang, Zhongyu Wei.  
 
 - **\[ACL24\]** [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://somelvlm.github.io). **Findings**  
   **Xinnong Zhang\***, Haoyu Kuang\*, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
