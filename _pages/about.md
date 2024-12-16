@@ -10,18 +10,17 @@ redirect_from:
 
 I am Xinnong Zhang (张辛农), a Ph.D. student at Fudan University. I'm currently advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and carrying out my research at the [Data Intelligence and Social Computing Lab (Fudan DISC)](http://www.fudan-disc.com/). My email is xnzhang23 AT m DOT fudan DOT edu DOT cn.
 
-### Research Interests
+# Research Interests
 
 Currently, I'm excited about the following topics:
 - Bootstrapping Computational Social Science via Large Vision Language Models
 - Agents Simulation Powered by Large Language Models
 
-### What's New
-\[2024.12.05\] Our **Survey on Social Simulation** has been released! [\[Paper\]](https://arxiv.org/pdf/2412.03563), [\[Repo\]](https://github.com/FudanDISC/SocialAgent).
+# What's New
+- \[2024.12.05\] Our **Survey on Social Simulation** has been released! [\[Paper\]](https://arxiv.org/pdf/2412.03563), [\[Repo\]](https://github.com/FudanDISC/SocialAgent).
+- \[2024.10.29\] **[AI-Press](https://arxiv.org/abs/2410.07561)**, **[AgentSense](https://arxiv.org/abs/2410.19346)**, and **[ElectionSim](https://arxiv.org/abs/2410.20746)**, altogether **three** new works are now released! It's been quite tough days and now I'm planning on a vacation : )
 
-\[2024.10.29\] **[AI-Press](https://arxiv.org/abs/2410.07561)**, **[AgentSense](https://arxiv.org/abs/2410.19346)**, and **[ElectionSim](https://arxiv.org/abs/2410.20746)**, altogether **three** new works are now released! It's been quite tough days and now I'm planning on a vacation : )
-
-### Publication  
+# Publications  
 \* indicates equal contributions.  
 
 - **\[Preprint\]** [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/abs/2412.03563).  
