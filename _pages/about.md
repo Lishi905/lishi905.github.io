@@ -40,4 +40,18 @@ Currently, I'm excited about the following topics:
 
 - **\[EMNLP23\]** [One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling](https://aclanthology.org/2023.findings-emnlp.1003/). **Findings**  
   Ruoxue Ma, Jiarong Xu, **Xinnong Zhang**, Haozhe Zhang, Zuyu Zhao, Qi Zhang, Xuanjing Huang, Zhongyu Wei.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/paper_imgs/one_model_connects_all.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[One-Model-Connects-All: A Unified Graph Pre-Training Model for Online Community Modeling](https://aclanthology.org/2023.findings-emnlp.1003/)
+
+Ruoxue Ma, Jiarong Xu, **Xinnong Zhang**, Haozhe Zhang, Zuyu Zhao, Qi Zhang, Xuanjing Huang, Zhongyu Wei
+
+\[[PDF](https://aclanthology.org/2023.findings-emnlp.1003.pdf)\]
+
+We present a ternary heterogeneous graph to model online communities.
+
+</div>
+</div>
   
