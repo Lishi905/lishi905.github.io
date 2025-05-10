@@ -17,6 +17,7 @@ Currently, I'm excited about the following topics:
 - Agents Simulation Powered by Large Language Models
 
 ### What's New
+- \[2025.04.14\] **SocioVerse** is now released with a 1 million user dataset open source! [\[Homepage\]](http://fudan-disc.com/socioverse/)
 - \[2025.01.23\] **AgentSense** has been accepted by _NAACL'25_ main conference!
 - \[2024.12.05\] Our **Survey on Social Simulation** has been released! [\[Paper\]](https://arxiv.org/pdf/2412.03563), [\[Repo\]](https://github.com/FudanDISC/SocialAgent).
 - \[2024.10.29\] **[AI-Press](https://arxiv.org/abs/2410.07561)**, **[AgentSense](https://arxiv.org/abs/2410.19346)**, and **[ElectionSim](https://arxiv.org/abs/2410.20746)**, altogether **three** new works are now released! It's been quite tough days and now I'm planning on a vacation : )
