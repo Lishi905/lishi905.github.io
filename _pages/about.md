@@ -17,12 +17,18 @@ Currently, I'm excited about the following topics:
 - Social Simulation Powered by LLM Agents
 
 ### What's New
+- \[2026.06.04\] Let's see how memes can influence LLM-generated stance on social media 👀 [Revising Context, Shifting Simulated Stance](https://arxiv.org/pdf/2606.06443).
+- \[2026.04.17\] Our **[Survey on Social Simulation](https://arxiv.org/pdf/2412.03563)** has been accepted by _ACM Computing Surveys_!
 - \[2025.04.14\] **SocioVerse** is now released with a 1 million user dataset open source! Try on [\[Homepage\]](http://fudan-disc.com/socioverse/)
 - \[2025.01.23\] **AgentSense** has been accepted by _NAACL'25_ main conference!
+<!--
 - \[2024.12.05\] Our **Survey on Social Simulation** has been released! [\[Paper\]](https://arxiv.org/pdf/2412.03563), [\[Repo\]](https://github.com/FudanDISC/SocialAgent).
 - \[2024.10.29\] **[AI-Press](https://arxiv.org/abs/2410.07561)**, **[AgentSense](https://arxiv.org/abs/2410.19346)**, and **[ElectionSim](https://arxiv.org/abs/2410.20746)**, altogether **three** new works are now released! It's been quite tough days, and now I'm planning on a vacation : )
+-->
 
 ### Publications  
+- **\[Preprint\]** [Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions](https://arxiv.org/pdf/2606.06443).  
+  **Xinnong Zhang\***, Wanting Shan\*, Hanjia Lyu, Zhongyu Wei, Jiebo Luo.
 
 - **\[Preprint\]** [SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users
 ](https://arxiv.org/abs/2504.10157).
