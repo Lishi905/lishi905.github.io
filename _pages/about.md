@@ -8,29 +8,30 @@ redirect_from:
 ---
 
 
-I am Xinnong Zhang (张辛农), a Ph.D. student at Fudan University. I'm currently advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and carrying out my research at [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/main.htm) and the [Fudan DISC Lab](http://www.fudan-disc.com/). My email is xnzhang23 AT m DOT fudan DOT edu DOT cn.
+I am Xinnong Zhang (张辛农), a 4th-year Ph.D. student at Fudan University. I'm advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei), and I carry out my research at [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/main.htm) and the [Fudan DISC Lab](http://www.fudan-disc.com/). Currently, I'm a visiting researcher at King's College London (KCL), advised by Prof. [Yulan He](https://www.kcl.ac.uk/people/yulan-he) and [Hanqi Yan](https://www.kcl.ac.uk/people/hanqi-yan). My email is xnzhang23 AT m DOT fudan DOT edu DOT cn.
 
 ### Research Interests
 
 Currently, I'm excited about the following topics:
-- Bootstrapping Computational Social Science via Large Vision Language Models
+- Bootstrapping Computational Social Science via Large Language Models
 - Social Simulation Powered by LLM Agents
+- Auditable Future Prediction
 
 ### What's New
-- \[2026.06.04\] Let's see how memes can influence LLM-generated stance on social media 👀 [Revising Context, Shifting Simulated Stance](https://arxiv.org/pdf/2606.06443).
+- \[2026.06.04\] Let's see how memes can influence LLM-generated stance on social media 😼 [Revising Context, Shifting Simulated Stance](https://arxiv.org/pdf/2606.06443) (**EMNLP26**).
 - \[2026.04.17\] Our **[Survey on Social Simulation](https://arxiv.org/pdf/2412.03563)** has been accepted by _ACM Computing Surveys_!
-- \[2025.04.14\] **SocioVerse** is now released with a 1 million user dataset open source! Try on [\[Homepage\]](http://fudan-disc.com/socioverse/)
-- \[2025.01.23\] **AgentSense** has been accepted by _NAACL'25_ main conference!
+- \[2025.04.14\] **SocioVerse** is now released with a 1-million-user dataset open source! Try on [\[Homepage\]](http://fudan-disc.com/socioverse/)
 <!--
+- \[2025.01.23\] **AgentSense** has been accepted by _NAACL'25_ main conference!
 - \[2024.12.05\] Our **Survey on Social Simulation** has been released! [\[Paper\]](https://arxiv.org/pdf/2412.03563), [\[Repo\]](https://github.com/FudanDISC/SocialAgent).
 - \[2024.10.29\] **[AI-Press](https://arxiv.org/abs/2410.07561)**, **[AgentSense](https://arxiv.org/abs/2410.19346)**, and **[ElectionSim](https://arxiv.org/abs/2410.20746)**, altogether **three** new works are now released! It's been quite tough days, and now I'm planning on a vacation : )
 -->
 
 ### Publications  
-- **\[Preprint\]** [Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions](https://arxiv.org/pdf/2606.06443).  
+- **\[EMNLP26\]** [Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions](https://arxiv.org/pdf/2606.06443).  
   **Xinnong Zhang\***, Wanting Shan\*, Hanjia Lyu, Zhongyu Wei, Jiebo Luo.
 
-- **\[Preprint\]** [SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users
+- **\[TechRepo\]** [SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users
 ](https://arxiv.org/abs/2504.10157).  
   **Xinnong Zhang\***, Jiayu Lin\*, Xinyi Mou\*, Shiyue Yang, Xiawei Liu, Libo Sun, Hanjia Lyu, Yihang Yang, Weihong Qi, Yue Chen, Guanying Li, Ling Yan, Yao Hu, Siming Chen, Yu Wang, Jingxuan Huang, Jiebo Luo, Shiping Tang, Libo Wu, Baohua Zhou, Zhongyu Wei.
 
